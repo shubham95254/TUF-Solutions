@@ -5,9 +5,6 @@ class Solution{
         image[x][y] = newColor;
 
         for(auto i:travxy){
-            // for(auto j:travxy){
-
-                // if(i==0&&j==0) continue;
 
                 if ((x+i)>=0 && (x+i)<n ){
                     if(image[x+i][y]==startColor && !vis[x+i][y]){
@@ -19,8 +16,6 @@ class Solution{
                         traverse(x, y+i, image, vis, n, m ,travxy, newColor, startColor);
                     }
                 }
-
-            // }
         }
     }
 
@@ -35,15 +30,6 @@ class Solution{
         vector<int> travxy = {-1, 1};
         traverse(sr, sc, image, vis, n, m, travxy, newColor, image[sr][sc]);
 
-        // for(int i=0; i<n; i++) {
-        //     for(int j = 0; j<m; j++) {
-                
-        // int count = 0;
-                // if (!vis[i][j] && image[i][j]!='0'){
-                    // count++;
-                // }
-        //     }
-        // }
         return image;
     }
 };
