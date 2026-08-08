@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 3 | 1 | `2026-08-04` |
+| **5** | 1 | 3 | 1 | `2026-08-08` |
 
 ---
 
@@ -15,9 +15,10 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0002 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
-| 0003 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0004 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0002 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0003 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
+| 0004 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0005 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 
 ---
 
