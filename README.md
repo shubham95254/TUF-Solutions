@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [Solution-1](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-1.cpp) [BFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/BFS.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0001 | [Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [BFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/BFS.cpp) [Solution-1](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0002 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0003 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0004 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
