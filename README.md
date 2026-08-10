@@ -19,7 +19,7 @@
 | 0003 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0004 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0005 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
-| 0006 | [Number of enclaves](./DSA/General/number-of-enclaves) | [Solution-1](./DSA/General/number-of-enclaves/Solution-1.cpp) | 🟡 Medium | `DSA` |
+| 0006 | [Number of enclaves](./DSA/General/number-of-enclaves) | [Solution-1](./DSA/General/number-of-enclaves/Solution-1.cpp) [CPP](./DSA/General/number-of-enclaves/solution.cpp) | 🟡 Medium | `DSA` |
 | 0007 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 | 0008 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 | 0009 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
