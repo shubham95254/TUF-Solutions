@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **11** | 3 | 6 | 2 | `2026-08-10` |
+| **12** | 3 | 7 | 2 | `2026-08-10` |
 
 ---
 
@@ -24,7 +24,8 @@
 | 0008 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0009 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0010 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
-| 0011 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
+| 0011 | [Surrounded Regions](./DSA/General/surrounded-regions) | [chatgpt](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
+| 0012 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
 
 ---
 
