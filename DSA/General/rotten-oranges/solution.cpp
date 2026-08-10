@@ -43,8 +43,5 @@ public:
             return -1;
         }
         return maxtime;
-
-
-       
     }
 };
