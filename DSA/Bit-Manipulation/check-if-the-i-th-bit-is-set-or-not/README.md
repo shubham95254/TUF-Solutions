@@ -1,4 +1,4 @@
-# [Check if the i-th bit is Set or Not](https://takeuforward.org/plus/dsa/problems/check-if-the-i-th-bit-is-set-or-not?source=strivers-a2z-dsa-track&tab=submissions)
+# [Check if the i-th bit is Set or Not](https://takeuforward.org/plus/dsa/problems/check-if-the-i-th-bit-is-set-or-not?source=strivers-a2z-dsa-track&approach=brute&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
