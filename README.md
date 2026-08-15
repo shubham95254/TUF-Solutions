@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0001 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) [BFS](./DSA/Graphs/bipartite-graph/BFS.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0002 | [Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [CPP](./DSA/General/check-if-a-number-is-odd-or-not/solution.cpp) | 🟢 Easy | `DSA` |
 | 0003 | [Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [CPP](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.cpp) | 🟢 Easy | `DSA` |
 | 0004 | [Check if the i-th bit is Set or Not](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not) | [left-shift-operator](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/left-shift-operator.cpp) [right-shift-operator](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/right-shift-operator.cpp) | 🟢 Easy | `DSA` / `Bit-Manipulation` |
