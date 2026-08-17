@@ -34,7 +34,7 @@
 | 0018 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0019 | [Surrounded Regions](./DSA/General/surrounded-regions) | [chatgpt](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
 | 0020 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [using-temp-variable](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
-| 0021 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0021 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0022 | [Traversal Techniques](./DSA/General/traversal-techniques) | [Solution-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
 | 0023 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
 
