@@ -1,4 +1,4 @@
-# [Topological sort or Kahn's algorithm](https://takeuforward.org/plus/dsa/problems/topological-sort-or-kahns-algorithm?source=strivers-a2z-dsa-track&tab=submissions&approach=bfs-kahn-s-agorithm)
+# [Topological sort or Kahn's algorithm](https://takeuforward.org/plus/dsa/problems/topological-sort-or-kahns-algorithm?source=strivers-a2z-dsa-track&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
