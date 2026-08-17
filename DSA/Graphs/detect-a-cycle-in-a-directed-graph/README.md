@@ -1,4 +1,4 @@
-# [Detect a cycle in a directed graph](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph?source=strivers-a2z-dsa-track&tab=submissions)
+# [Detect a cycle in a directed graph](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph?source=strivers-a2z-dsa-track&tab=submissions&approach=bfs)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
