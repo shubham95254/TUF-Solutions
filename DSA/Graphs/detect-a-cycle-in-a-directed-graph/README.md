@@ -6,40 +6,7 @@
 
 ## 📝 Problem Statement
 
-Given a **directed** graph with V vertices labeled from 0 to V-1. The graph is represented using an adjacency list where adj[i] lists all nodes connected to node. Determine if the graph contains any **cycles** .
-
-### Example 1
-
-Input:&nbsp;V = 6, adj= [ [1], [2, 5], [3], [4], [1], [ ] ]
-
-<img src="https://static.takeuforward.org/content/ProblemSetter-Do8SOPHS">
-
-Output: True
-
-Explanation: The graph contains a cycle: 1 -> 2 -> 3 -> 4 -> 1.
-
-### Example 2
-
-Input:&nbsp;V = 4, adj= [[1,2], [2], [], [0,2]]
-
-Output: False
-
-Explanation: The graph does not contain a cycle.
-
-### Example 3
-
-Input:&nbsp;V = 3, adj= [[1], [2], [0]]
-
-Output:
-
-True
-
-### Constraints
-
-- 1 <= V <= 10^4
-- adj.size() == V
-- 0 <= adj[i][j] < V
-- 1 <= sum(adj[i].size()) <= 10^4
+Problem description available on TakeUForward (TUF+).
 
 ---
 
