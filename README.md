@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Alien Dictionary](./DSA/General/alien-dictionary) | [CPP](./DSA/General/alien-dictionary/solution.cpp) | 🔴 Hard | `DSA` |
+| 0001 | [Alien Dictionary](./DSA/Graphs/alien-dictionary) | [CPP](./DSA/Graphs/alien-dictionary/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0002 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [BFS](./DSA/Graphs/bipartite-graph/BFS.cpp) [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0003 | [Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [CPP](./DSA/General/check-if-a-number-is-odd-or-not/solution.cpp) | 🟢 Easy | `DSA` |
 | 0004 | [Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [CPP](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.cpp) | 🟢 Easy | `DSA` |
