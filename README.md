@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **27** | 9 | 9 | 9 | `2026-08-18` |
+| **28** | 9 | 9 | 10 | `2026-08-18` |
 
 ---
 
@@ -36,11 +36,12 @@
 | 0020 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0021 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
 | 0022 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0023 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
-| 0024 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
-| 0025 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0026 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
-| 0027 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
+| 0023 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0024 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
+| 0025 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
+| 0026 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0027 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
+| 0028 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
 
 ---
 
