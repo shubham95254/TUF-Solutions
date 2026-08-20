@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **30** | 9 | 9 | 12 | `2026-08-20` |
+| **31** | 9 | 10 | 12 | `2026-08-20` |
 
 ---
 
@@ -35,15 +35,16 @@
 | 0019 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 | 0020 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0021 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0022 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
-| 0023 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0024 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [Solution-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
-| 0025 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0026 | [Surrounded Regions](./DSA/General/surrounded-regions) | [chatgpt](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
-| 0027 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [using-temp-variable](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
-| 0028 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0029 | [Traversal Techniques](./DSA/General/traversal-techniques) | [Solution-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
-| 0030 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
+| 0022 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0023 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
+| 0024 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0025 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [Solution-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
+| 0026 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0027 | [Surrounded Regions](./DSA/General/surrounded-regions) | [chatgpt](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
+| 0028 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [using-temp-variable](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
+| 0029 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0030 | [Traversal Techniques](./DSA/General/traversal-techniques) | [Solution-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
+| 0031 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
 
 ---
 
