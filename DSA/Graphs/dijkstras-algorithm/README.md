@@ -1,4 +1,4 @@
-# [Dijkstra's algorithm](https://takeuforward.org/plus/dsa/problems/dijkstra's-algorithm?source=strivers-a2z-dsa-track&tab=submissions)
+# [Dijkstra's algorithm](https://takeuforward.org/plus/dsa/problems/dijkstra's-algorithm?source=strivers-a2z-dsa-track&tab=submissions&approach=using-set)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 

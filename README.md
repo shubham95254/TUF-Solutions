@@ -24,7 +24,7 @@
 | 0008 | [Course Schedule II](./DSA/General/course-schedule-ii) | [bfs-toposort](./DSA/General/course-schedule-ii/bfs-toposort.cpp) | 🟡 Medium | `DSA` |
 | 0009 | [Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [BFS](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/BFS.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0010 | [Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [BFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/BFS.cpp) [DFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/DFS.cpp) [Solution-1](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0011 | [Dijkstra's algorithm](./DSA/Graphs/dijkstras-algorithm) | [CPP](./DSA/Graphs/dijkstras-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0011 | [Dijkstra's algorithm](./DSA/Graphs/dijkstras-algorithm) | [CPP](./DSA/Graphs/dijkstras-algorithm/solution.cpp) [using-set](./DSA/Graphs/dijkstras-algorithm/using-set.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0012 | [Distance of nearest cell having one](./DSA/Linked-List/distance-of-nearest-cell-having-one) | [Solution-1](./DSA/Linked-List/distance-of-nearest-cell-having-one/Solution-1.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0013 | [Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [bfs-toposort](./DSA/Graphs/find-eventual-safe-states/bfs-toposort.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0014 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
