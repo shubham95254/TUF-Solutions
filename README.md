@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **32** | 9 | 10 | 13 | `2026-08-21` |
+| **33** | 9 | 10 | 14 | `2026-08-21` |
 
 ---
 
@@ -29,23 +29,24 @@
 | 0013 | [Distance of nearest cell having one](./DSA/Linked-List/distance-of-nearest-cell-having-one) | [SOLUTION-1](./DSA/Linked-List/distance-of-nearest-cell-having-one/Solution-1.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0014 | [Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [BFS-TOPOSORT](./DSA/Graphs/find-eventual-safe-states/bfs-toposort.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0015 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0016 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0017 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
-| 0018 | [Number of enclaves](./DSA/General/number-of-enclaves) | [SOLUTION-1](./DSA/General/number-of-enclaves/Solution-1.cpp) [CPP](./DSA/General/number-of-enclaves/solution.cpp) | 🟡 Medium | `DSA` |
-| 0019 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0020 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0021 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0022 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0023 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0024 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
-| 0025 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0026 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
-| 0027 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0028 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
-| 0029 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
-| 0030 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0031 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
-| 0032 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
+| 0016 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0017 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0018 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
+| 0019 | [Number of enclaves](./DSA/General/number-of-enclaves) | [CPP](./DSA/General/number-of-enclaves/solution.cpp) [SOLUTION-1](./DSA/General/number-of-enclaves/Solution-1.cpp) | 🟡 Medium | `DSA` |
+| 0020 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0021 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0022 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0023 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0024 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0025 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
+| 0026 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0027 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
+| 0028 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0029 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
+| 0030 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
+| 0031 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0032 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
+| 0033 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
 
 ---
 
