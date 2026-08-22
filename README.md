@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **33** | 9 | 10 | 14 | `2026-08-21` |
+| **34** | 9 | 10 | 15 | `2026-08-22` |
 
 ---
 
@@ -15,7 +15,7 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Alien Dictionary](./DSA/Graphs/alien-dictionary) | [CPP](./DSA/Graphs/alien-dictionary/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0002 | [Bellman ford algorithm](./DSA/Graphs/bellman-ford-algorithm) | [bellman-ford](./DSA/Graphs/bellman-ford-algorithm/bellman-ford.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0002 | [Bellman ford algorithm](./DSA/Graphs/bellman-ford-algorithm) | [BELLMAN-FORD](./DSA/Graphs/bellman-ford-algorithm/bellman-ford.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0003 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [BFS](./DSA/Graphs/bipartite-graph/BFS.cpp) [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0004 | [Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [CPP](./DSA/General/check-if-a-number-is-odd-or-not/solution.cpp) | 🟢 Easy | `DSA` |
 | 0005 | [Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [CPP](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.cpp) | 🟢 Easy | `DSA` |
@@ -40,13 +40,14 @@
 | 0024 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 | 0025 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
 | 0026 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0027 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
-| 0028 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0029 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
-| 0030 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
-| 0031 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0032 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
-| 0033 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
+| 0027 | [Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-distance-in-a-binary-maze) | [Dijkstra](./DSA/Graphs/shortest-distance-in-a-binary-maze/Dijkstra.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0028 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
+| 0029 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0030 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
+| 0031 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
+| 0032 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0033 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
+| 0034 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
 
 ---
 
