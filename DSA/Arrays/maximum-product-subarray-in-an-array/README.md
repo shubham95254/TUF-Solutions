@@ -1,4 +1,4 @@
-# [Maximum Product Subarray in an Array](https://takeuforward.org/plus/dsa/problems/maximum-product-subarray-in-an-array?source=strivers-sde-sheet&approach=optimal&tab=editorial)
+# [Maximum Product Subarray in an Array](https://takeuforward.org/plus/dsa/problems/maximum-product-subarray-in-an-array?source=strivers-sde-sheet&approach=optimal&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
