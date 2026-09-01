@@ -28,7 +28,7 @@
 | 0012 | [Dijkstra's algorithm](./DSA/Graphs/dijkstras-algorithm) | [CPP](./DSA/Graphs/dijkstras-algorithm/solution.cpp) [USING-SET](./DSA/Graphs/dijkstras-algorithm/using-set.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0013 | [Distance of nearest cell having one](./DSA/Linked-List/distance-of-nearest-cell-having-one) | [SOLUTION-1](./DSA/Linked-List/distance-of-nearest-cell-having-one/Solution-1.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0014 | [Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [BFS-TOPOSORT](./DSA/Graphs/find-eventual-safe-states/bfs-toposort.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0015 | [Find missing number](./DSA/Arrays/find-missing-number) | [optimal-2](./DSA/Arrays/find-missing-number/optimal-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0015 | [Find missing number](./DSA/Arrays/find-missing-number) | [optimal-2](./DSA/Arrays/find-missing-number/optimal-2.cpp) [optimal-1](./DSA/Arrays/find-missing-number/optimal-1.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0016 | [Find the MST weight](./DSA/Graphs/find-the-mst-weight) | [CPP](./DSA/Graphs/find-the-mst-weight/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0017 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0018 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
