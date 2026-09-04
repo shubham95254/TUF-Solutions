@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **45** | 18 | 10 | 17 | `2026-09-04` |
+| **46** | 18 | 11 | 17 | `2026-09-04` |
 
 ---
 
@@ -28,7 +28,7 @@
 | 0012 | [Dijkstra's algorithm](./DSA/Graphs/dijkstras-algorithm) | [CPP](./DSA/Graphs/dijkstras-algorithm/solution.cpp) [USING-SET](./DSA/Graphs/dijkstras-algorithm/using-set.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0013 | [Distance of nearest cell having one](./DSA/Linked-List/distance-of-nearest-cell-having-one) | [SOLUTION-1](./DSA/Linked-List/distance-of-nearest-cell-having-one/Solution-1.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0014 | [Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [BFS-TOPOSORT](./DSA/Graphs/find-eventual-safe-states/bfs-toposort.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0015 | [Find missing number](./DSA/Arrays/find-missing-number) | [OPTIMAL-2](./DSA/Arrays/find-missing-number/optimal-2.cpp) [OPTIMAL-1](./DSA/Arrays/find-missing-number/optimal-1.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0015 | [Find missing number](./DSA/Arrays/find-missing-number) | [OPTIMAL-1](./DSA/Arrays/find-missing-number/optimal-1.cpp) [OPTIMAL-2](./DSA/Arrays/find-missing-number/optimal-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0016 | [Find the MST weight](./DSA/Graphs/find-the-mst-weight) | [CPP](./DSA/Graphs/find-the-mst-weight/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0017 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0018 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
@@ -52,13 +52,14 @@
 | 0036 | [Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-distance-in-a-binary-maze) | [DIJKSTRA](./DSA/Graphs/shortest-distance-in-a-binary-maze/Dijkstra.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0037 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
 | 0038 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0039 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
-| 0040 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
-| 0041 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0042 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
-| 0043 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0044 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0045 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
+| 0039 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [CPP](./DSA/Bit-Manipulation/single-number-i/solution.cpp) | 🟡 Medium | `DSA` / `Bit-Manipulation` |
+| 0040 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
+| 0041 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
+| 0042 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0043 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
+| 0044 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0045 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0046 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
 
 ---
 
