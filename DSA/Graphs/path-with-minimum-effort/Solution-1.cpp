@@ -7,7 +7,6 @@ public:
         int N = heights.size();
         int M = heights[0].size();
 
-        // pair<int,int> S ={0,0}, E = {N-1, M-1};
         priority_queue<vi, vector<vi>, greater<vi>> pq; //min heap
         vector<vector<int>> costs(N, vector<int>(M, 1e8));
 
@@ -37,13 +36,6 @@ public:
                     pq.push({newcost, newi, newj});
                 }
             }
-        }
-        //print costs
-        for(auto it:costs){
-            for (auto iit:it) {
-                cout << iit<<" ";
-            }
-            cout << endl;
         }
 
         return costs[N-1][M-1];
