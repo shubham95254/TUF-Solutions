@@ -12,12 +12,15 @@ public:
 
         vector<int> dist(n, 1e9);
         dist[src] = 0;
-        priority_queue<piii, vector<piii>, greater<piii>> pq;
-        pq.push({0, {0, src}});
+        // priority_queue<piii, vector<piii>, greater<piii>> pq;
+        // instead of this, use simple q, as the stops, will be increasing monotonically only
+        queue<piii> q;
 
-        while(!pq.empty()){
-            piii p = pq.top();
-            pq.pop();
+        q.push({0, {0, src}});
+
+        while(!q.empty()){
+            piii p = q.front();
+            q.pop();
             int stops = p.first;
             int cost= p.second.first;
             int node = p.second.second;
@@ -26,7 +29,7 @@ public:
             for(auto it:adj[node]){
                 if(cost+it.second<dist[it.first]){
                     dist[it.first] = cost+it.second;
-                    pq.push({stops+1, {dist[it.first],it.first}});
+                    q.push({stops+1, {dist[it.first],it.first}});
                 }
             }
         }

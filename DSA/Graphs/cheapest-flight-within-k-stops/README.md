@@ -10,7 +10,7 @@ There are n cities and m edges connected by some number of flights. Given an arr
 
 ### Example 1
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-lTPXKKMA" data-porda-id="p_c39186b3-9d5c-4b1a-a6d9-00a0e1c76f96" data-porda-status="clean" class="porda-blur-img" data-porda-unblur="1">
+<img src="https://static.takeuforward.org/content/ProblemSetter-lTPXKKMA" data-porda-id="p_7bfdecfa-2ee3-43b9-9952-fcacb41fa4bd" data-porda-status="pending" class="porda-blur-img">
 
 <p>
 
@@ -22,7 +22,7 @@ There are n cities and m edges connected by some number of flights. Given an arr
 
 ### Example 2
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-CIPwuM01" data-porda-id="p_ad3a9de0-8007-4f68-b780-36c1fd02ab4a" data-porda-status="clean" class="porda-blur-img" data-porda-unblur="1">
+<img src="https://static.takeuforward.org/content/ProblemSetter-CIPwuM01" data-porda-id="p_4bfad90b-8706-4097-a5f0-24d3aeaec90d" data-porda-status="pending" class="porda-blur-img">
 
 <p>
 
