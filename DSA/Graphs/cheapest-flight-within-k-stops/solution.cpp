@@ -13,20 +13,20 @@ public:
         vector<int> dist(n, 1e9);
         dist[src] = 0;
         priority_queue<piii, vector<piii>, greater<piii>> pq;
-        pq.push({-1, {0, src}});
+        pq.push({0, {0, src}});
 
         while(!pq.empty()){
             piii p = pq.top();
             pq.pop();
-            int s = p.first;
-            int c= p.second.first;
-            int n = p.second.second;
-            if(s==K) break;
+            int stops = p.first;
+            int cost= p.second.first;
+            int node = p.second.second;
+            if(stops>K) break;
 
-            for(auto it:adj[n]){
-                if(c+it.second<dist[it.first]){
-                    dist[it.first] = c+it.second;
-                    pq.push({s+1, {dist[it.first],it.first}});
+            for(auto it:adj[node]){
+                if(cost+it.second<dist[it.first]){
+                    dist[it.first] = cost+it.second;
+                    pq.push({stops+1, {dist[it.first],it.first}});
                 }
             }
         }
