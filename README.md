@@ -49,7 +49,7 @@
 | 0033 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [SOLUTION-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0034 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0035 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0036 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [iterative](./DSA/Trees/preorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0036 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [iterative](./DSA/Trees/preorder-traversal/iterative.cpp) [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0037 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0038 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 | 0039 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |

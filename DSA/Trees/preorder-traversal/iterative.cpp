@@ -14,7 +14,7 @@ class Solution {
         vector<int> preorderTraversal;
 
         stack<TreeNode*> st;
-        st.push(root);
+        if(root!=NULL) st.push(root);
 
         while (!st.empty()) {
             TreeNode* node = st.top();
@@ -22,8 +22,8 @@ class Solution {
 
             preorderTraversal.push_back(node->data);
 
-            if (node->right!=NULL) st.push(node->right);
-            if (node->left!=NULL) st.push(node->left);
+            if (node->right) st.push(node->right);
+            if (node->left) st.push(node->left);
         }
         return preorderTraversal;
     }
