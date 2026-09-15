@@ -1,4 +1,4 @@
-# [Preorder Traversal](https://takeuforward.org/plus/dsa/problems/preorder-traversal?tab=submissions&source=strivers-a2z-dsa-track&approach=iterative)
+# [Preorder Traversal](https://takeuforward.org/plus/dsa/problems/preorder-traversal?source=strivers-a2z-dsa-track&approach=iterative&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -16,7 +16,7 @@ Given root of binary tree, return the **preorder** traversal of the binary tree.
 
 **Output:** [1, 4, 4, 2]</p><p>
 
-**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter--a35ZZF-" data-porda-id="p_46a80b46-09b3-41e5-aab3-b09b20ae1b5c" data-porda-status="pending" class="porda-blur-img">
+**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter--a35ZZF-" data-porda-id="p_dd351313-8224-4c9d-acb3-9ec3f7a6945c" data-porda-status="clean" class="porda-blur-img" data-porda-unblur="1">
 
 ### Example 2
 
