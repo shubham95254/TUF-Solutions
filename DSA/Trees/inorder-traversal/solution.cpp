@@ -10,19 +10,7 @@
 
 class Solution{
 	public:
-
-        void traverse(TreeNode* node, vector<int>& ans){
-            if(node->left) {
-                traverse(node->left, ans);
-            }
-            ans.push_back(node->data);
-            if(node->right) {
-                traverse(node->right, ans);
-            }
-        }
 		vector<int> inorder(TreeNode* root){
-	        vector<int> ans ;
-             traverse(root, ans);
-             return ans;
+	        //your code goes here
 		}
 };
