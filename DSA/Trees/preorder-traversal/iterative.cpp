@@ -1,3 +1,4 @@
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -14,7 +15,7 @@ class Solution {
         vector<int> preorderTraversal;
 
         stack<TreeNode*> st;
-        if(root!=NULL) st.push(root);
+        st.push(root);
 
         while (!st.empty()) {
             TreeNode* node = st.top();
