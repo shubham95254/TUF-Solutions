@@ -1,4 +1,4 @@
-# [Preorder Traversal](https://takeuforward.org/plus/dsa/problems/preorder-traversal?subject=dsa&approach=bfs&tab=submissions)
+# [Preorder Traversal](https://takeuforward.org/plus/dsa/problems/preorder-traversal?tab=submissions&source=strivers-a2z-dsa-track&approach=iterative)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -16,7 +16,7 @@ Given root of binary tree, return the **preorder** traversal of the binary tree.
 
 **Output:** [1, 4, 4, 2]</p><p>
 
-**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter--a35ZZF-">
+**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter--a35ZZF-" data-porda-id="p_46a80b46-09b3-41e5-aab3-b09b20ae1b5c" data-porda-status="pending" class="porda-blur-img">
 
 ### Example 2
 
@@ -27,6 +27,14 @@ Given root of binary tree, return the **preorder** traversal of the binary tree.
 **Output:** [1]</p><p>
 
 **Explanation:** Only root node is present.</p>
+
+### Example 3
+
+<p>
+
+**Input:** root = [5, 1, 2, 8, null, 4, 5, null, 6]</p>Output:
+
+[5, 1, 8, 6, 2, 4, 5]
 
 ### Constraints
 
