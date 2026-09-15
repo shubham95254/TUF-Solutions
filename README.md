@@ -45,7 +45,7 @@
 | 0029 | [Number of enclaves](./DSA/General/number-of-enclaves) | [CPP](./DSA/General/number-of-enclaves/solution.cpp) [SOLUTION-1](./DSA/General/number-of-enclaves/Solution-1.cpp) | 🟡 Medium | `DSA` |
 | 0030 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 | 0031 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0032 | [Number of ways to arrive at destination](./DSA/Graphs/number-of-ways-to-arrive-at-destination) | [CPP](./DSA/Graphs/number-of-ways-to-arrive-at-destination/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0032 | [Number of ways to arrive at destination](./DSA/Trees/number-of-ways-to-arrive-at-destination) | [CPP](./DSA/Trees/number-of-ways-to-arrive-at-destination/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
 | 0033 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [SOLUTION-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0034 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0035 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
