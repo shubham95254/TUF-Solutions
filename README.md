@@ -63,7 +63,7 @@
 | 0047 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
 | 0048 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0049 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [CPP](./DSA/Bit-Manipulation/single-number-i/solution.cpp) | 🟡 Medium | `DSA` / `Bit-Manipulation` |
-| 0050 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [OPTIMALDUTCHFLAGALGO](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/optimalDutchFlagAlgo.cpp) [CPP](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.cpp) | 🟡 Medium | `DSA` / `Arrays` |
+| 0050 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [CPP](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.cpp) [OPTIMALDUTCHFLAGALGO](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/optimalDutchFlagAlgo.cpp) | 🟡 Medium | `DSA` / `Arrays` |
 | 0051 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
 | 0052 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
 | 0053 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |

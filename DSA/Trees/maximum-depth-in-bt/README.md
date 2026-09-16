@@ -1,4 +1,4 @@
-# [Maximum Depth in BT](https://takeuforward.org/plus/dsa/problems/maximum-depth-in-bt?source=strivers-a2z-dsa-track&approach=recursive&tab=submissions)
+# [Maximum Depth in BT](https://takeuforward.org/plus/dsa/problems/maximum-depth-in-bt?source=strivers-a2z-dsa-track&approach=recursive&tab=editorial)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -18,7 +18,7 @@ A binary tree's maximum depth is number of nodes along the longest path from roo
 
 **Output:** 3</p><p>
 
-**Explanation:** The path from root node 1 to node with value 6 has maximum depth with 3 nodes along path.</p><img src="https://static.takeuforward.org/content/ProblemSetter-iaO2S02r" data-porda-id="p_217cec34-dc2b-457d-b438-c637c6ab0899" data-porda-status="pending" class="porda-blur-img">
+**Explanation:** The path from root node 1 to node with value 6 has maximum depth with 3 nodes along path.</p><img src="https://static.takeuforward.org/content/ProblemSetter-iaO2S02r" data-porda-id="p_98280944-77fa-4369-9ff4-285653048259" data-porda-status="pending" class="porda-blur-img">
 
 ### Example 2
 
@@ -30,7 +30,7 @@ A binary tree's maximum depth is number of nodes along the longest path from roo
 
 **Explanation:** The path from root node 3 to node with value 15 has maximum depth with 3 nodes along path.</p>There exists other paths to reach the solution.
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-6P7ar26j" data-porda-id="p_b79fb6cf-2790-4ec9-ac8a-743827ea9f14" data-porda-status="pending" class="porda-blur-img">
+<img src="https://static.takeuforward.org/content/ProblemSetter-6P7ar26j" data-porda-id="p_2c55abf6-5352-41e4-836b-b45dcda23f10" data-porda-status="pending" class="porda-blur-img">
 
 ### Constraints
 
