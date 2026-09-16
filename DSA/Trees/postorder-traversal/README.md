@@ -1,4 +1,4 @@
-# [Postorder Traversal](https://takeuforward.org/plus/dsa/problems/postorder-traversal?source=strivers-a2z-dsa-track&approach=iterative-approach&tab=submissions)
+# [Postorder Traversal](https://takeuforward.org/plus/dsa/problems/postorder-traversal?tab=submissions&source=strivers-a2z-dsa-track&approach=iterative-approach)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -18,7 +18,7 @@ Given root of binary tree, return the **Postorder** traversal of the binary tree
 
 **Explanation:** </p>
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-ORvQLHw4" data-porda-id="p_7bcc3e71-b584-488a-a271-6de2d56c8d14" data-porda-status="pending" class="porda-blur-img">
+<img src="https://static.takeuforward.org/content/ProblemSetter-ORvQLHw4" data-porda-id="p_708fcf90-cbcc-4b3c-be77-67995bb02b12" data-porda-status="pending" class="porda-blur-img">
 
 ### Example 2
 
@@ -30,7 +30,7 @@ Given root of binary tree, return the **Postorder** traversal of the binary tree
 
 **Explanation:** </p>
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-11arw0oH" data-porda-id="p_d62d495b-eb5b-40ed-860d-b7e98ee1383c" data-porda-status="pending" class="porda-blur-img">
+<img src="https://static.takeuforward.org/content/ProblemSetter-11arw0oH" data-porda-id="p_601cdc68-d8ac-4a5a-b436-f43f2cdf361a" data-porda-status="pending" class="porda-blur-img">
 
 ### Constraints
 

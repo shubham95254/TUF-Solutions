@@ -25,10 +25,13 @@ class Solution{
                 if(node->left!=NULL) st.push(node->left);
                 if(node->right!=NULL) st.push(node->right);
             }
-            int n =postOrderTraversal.size();
-            for(int i=0;i<n/2; i++) {
-                swap(postOrderTraversal[i], postOrderTraversal[n-i-1]);
-            }
+            // int n =postOrderTraversal.size();
+            // for(int i=0;i<n/2; i++) {
+            //     swap(postOrderTraversal[i], postOrderTraversal[n-i-1]);
+            // }
+
+            reverse(postOrderTraversal.begin(),postOrderTraversal.end());
+
             return postOrderTraversal;
 		}
 };
