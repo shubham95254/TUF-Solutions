@@ -1,4 +1,4 @@
-# [Postorder Traversal](https://takeuforward.org/plus/dsa/problems/postorder-traversal?subject=dsa&approach=bfs&tab=submissions)
+# [Postorder Traversal](https://takeuforward.org/plus/dsa/problems/postorder-traversal?source=strivers-a2z-dsa-track&approach=iterative-approach&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -18,7 +18,7 @@ Given root of binary tree, return the **Postorder** traversal of the binary tree
 
 **Explanation:** </p>
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-ORvQLHw4">
+<img src="https://static.takeuforward.org/content/ProblemSetter-ORvQLHw4" data-porda-id="p_f73ca4be-d20c-459f-a261-2806dba3f9a1" data-porda-status="pending" class="porda-blur-img">
 
 ### Example 2
 
@@ -30,7 +30,7 @@ Given root of binary tree, return the **Postorder** traversal of the binary tree
 
 **Explanation:** </p>
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-11arw0oH">
+<img src="https://static.takeuforward.org/content/ProblemSetter-11arw0oH" data-porda-id="p_c2e9082e-d4e9-449f-a96c-422d3cb5d40f" data-porda-status="pending" class="porda-blur-img">
 
 ### Constraints
 
