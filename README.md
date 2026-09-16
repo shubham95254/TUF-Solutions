@@ -51,7 +51,7 @@
 | 0035 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 | 0036 | [Number of ways to arrive at destination](./DSA/Trees/number-of-ways-to-arrive-at-destination) | [CPP](./DSA/Trees/number-of-ways-to-arrive-at-destination/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
 | 0037 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [SOLUTION-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0038 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [recursive](./DSA/Trees/postorder-traversal/recursive.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0038 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [recursive](./DSA/Trees/postorder-traversal/recursive.cpp) [iterative1-stack](./DSA/Trees/postorder-traversal/iterative1-stack.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0039 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0040 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [ITERATIVE](./DSA/Trees/preorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
 | 0041 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |

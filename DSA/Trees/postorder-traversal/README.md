@@ -18,7 +18,7 @@ Given root of binary tree, return the **Postorder** traversal of the binary tree
 
 **Explanation:** </p>
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-ORvQLHw4" data-porda-id="p_f73ca4be-d20c-459f-a261-2806dba3f9a1" data-porda-status="pending" class="porda-blur-img">
+<img src="https://static.takeuforward.org/content/ProblemSetter-ORvQLHw4" data-porda-id="p_7bcc3e71-b584-488a-a271-6de2d56c8d14" data-porda-status="pending" class="porda-blur-img">
 
 ### Example 2
 
@@ -30,7 +30,7 @@ Given root of binary tree, return the **Postorder** traversal of the binary tree
 
 **Explanation:** </p>
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-11arw0oH" data-porda-id="p_c2e9082e-d4e9-449f-a96c-422d3cb5d40f" data-porda-status="pending" class="porda-blur-img">
+<img src="https://static.takeuforward.org/content/ProblemSetter-11arw0oH" data-porda-id="p_d62d495b-eb5b-40ed-860d-b7e98ee1383c" data-porda-status="pending" class="porda-blur-img">
 
 ### Constraints
 
