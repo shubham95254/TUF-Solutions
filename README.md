@@ -41,7 +41,7 @@
 | 0025 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [CPP](./DSA/Hashing/longest-subarray-with-sum-k/solution.cpp) | 🟡 Medium | `DSA` / `Hashing` |
 | 0026 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [CPP](./DSA/Arrays/majority-element-i/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0027 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [CPP](./DSA/Arrays/maximum-consecutive-ones/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0028 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [CPP](./DSA/Trees/maximum-depth-in-bt/solution.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0028 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [CPP](./DSA/Trees/maximum-depth-in-bt/solution.cpp) [iterative](./DSA/Trees/maximum-depth-in-bt/iterative.cpp) | 🟡 Medium | `DSA` / `Trees` |
 | 0029 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [CPP](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.cpp) | 🔴 Hard | `DSA` / `Arrays` |
 | 0030 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
 | 0031 | [Minimum multiplications to reach end](./DSA/Graphs/minimum-multiplications-to-reach-end) | [CPP](./DSA/Graphs/minimum-multiplications-to-reach-end/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
