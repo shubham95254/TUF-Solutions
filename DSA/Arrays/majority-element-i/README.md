@@ -1,4 +1,4 @@
-# [Majority Element-I](https://takeuforward.org/plus/dsa/problems/majority-element-i?tab=submissions&source=strivers-a2z-dsa-track&approach=optimal)
+# [Majority Element-I](https://takeuforward.org/plus/dsa/problems/majority-element-i?source=strivers-a2z-dsa-track&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
