@@ -35,7 +35,7 @@
 | 0019 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0020 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0021 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) [ITERATIVE](./DSA/Trees/inorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0022 | [Kadane's Algorithm](./DSA/Arrays/kadanes-algorithm) | [CPP](./DSA/Arrays/kadanes-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Arrays` |
+| 0022 | [Kadane's Algorithm](./DSA/Arrays/kadanes-algorithm) | [CPP](./DSA/Arrays/kadanes-algorithm/solution.cpp) [print-subarry-Kadane](./DSA/Arrays/kadanes-algorithm/print-subarry-Kadane.cpp) | 🟡 Medium | `DSA` / `Arrays` |
 | 0023 | [Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array-by-k-places) | [OPTIMAL](./DSA/Arrays/left-rotate-array-by-k-places/optimal.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0024 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0025 | [Linear Search](./DSA/Arrays/linear-search) | [CPP](./DSA/Arrays/linear-search/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |

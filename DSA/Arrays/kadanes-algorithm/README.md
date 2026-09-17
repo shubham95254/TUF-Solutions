@@ -1,4 +1,4 @@
-# [Kadane's Algorithm](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm?source=strivers-a2z-dsa-track&approach=optimal&tab=submissions)
+# [Kadane's Algorithm](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm?source=strivers-a2z-dsa-track&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -29,6 +29,14 @@ A subarray is a contiguous non-empty sequence of elements within an array.
 **Output:** -2</p><p>
 
 **Explanation:** </p>The element on index 0 or index 3 make up the largest sum when taken as a subarray
+
+### Example 3
+
+<p>
+
+**Input:** nums = [-1, 2, 3, -1, 2, -6, 5]</p>Output:
+
+6
 
 ### Constraints
 
