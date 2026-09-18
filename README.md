@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **58** | 20 | 16 | 22 | `2026-09-17` |
+| **59** | 20 | 17 | 22 | `2026-09-18` |
 
 ---
 
@@ -16,62 +16,63 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Alien Dictionary](./DSA/Graphs/alien-dictionary) | [CPP](./DSA/Graphs/alien-dictionary/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0002 | [Bellman ford algorithm](./DSA/Graphs/bellman-ford-algorithm) | [BELLMAN-FORD](./DSA/Graphs/bellman-ford-algorithm/bellman-ford.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0003 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [BFS](./DSA/Graphs/bipartite-graph/BFS.cpp) [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0004 | [Cheapest flight within K stops](./DSA/Graphs/cheapest-flight-within-k-stops) | [CPP](./DSA/Graphs/cheapest-flight-within-k-stops/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0005 | [Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [CPP](./DSA/General/check-if-a-number-is-odd-or-not/solution.cpp) | 🟢 Easy | `DSA` |
-| 0006 | [Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [CPP](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.cpp) | 🟢 Easy | `DSA` |
-| 0007 | [Check if the i-th bit is Set or Not](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not) | [LEFT-SHIFT-OPERATOR](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/left-shift-operator.cpp) [RIGHT-SHIFT-OPERATOR](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/right-shift-operator.cpp) | 🟢 Easy | `DSA` / `Bit-Manipulation` |
-| 0008 | [Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [CPP](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.cpp) | 🟢 Easy | `DSA` / `Bit-Manipulation` |
-| 0009 | [Course Schedule I](./DSA/General/course-schedule-i) | [CPP](./DSA/General/course-schedule-i/solution.cpp) | 🔴 Hard | `DSA` |
-| 0010 | [Course Schedule II](./DSA/General/course-schedule-ii) | [BFS-TOPOSORT](./DSA/General/course-schedule-ii/bfs-toposort.cpp) | 🟡 Medium | `DSA` |
-| 0011 | [Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [BFS](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/BFS.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0012 | [Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [BFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/BFS.cpp) [DFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/DFS.cpp) [SOLUTION-1](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0013 | [Dijkstra's algorithm](./DSA/Graphs/dijkstras-algorithm) | [CPP](./DSA/Graphs/dijkstras-algorithm/solution.cpp) [USING-SET](./DSA/Graphs/dijkstras-algorithm/using-set.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0014 | [Distance of nearest cell having one](./DSA/Linked-List/distance-of-nearest-cell-having-one) | [SOLUTION-1](./DSA/Linked-List/distance-of-nearest-cell-having-one/Solution-1.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0015 | [Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [BFS-TOPOSORT](./DSA/Graphs/find-eventual-safe-states/bfs-toposort.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0016 | [Find missing number](./DSA/Arrays/find-missing-number) | [OPTIMAL-1](./DSA/Arrays/find-missing-number/optimal-1.cpp) [OPTIMAL-2](./DSA/Arrays/find-missing-number/optimal-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0017 | [Find the city with the smallest number of neighbors](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors) | [CPP](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0018 | [Find the MST weight](./DSA/Graphs/find-the-mst-weight) | [CPP](./DSA/Graphs/find-the-mst-weight/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0019 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0020 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0021 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) [ITERATIVE](./DSA/Trees/inorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0022 | [Kadane's Algorithm](./DSA/Arrays/kadanes-algorithm) | [CPP](./DSA/Arrays/kadanes-algorithm/solution.cpp) [print-subarry-Kadane](./DSA/Arrays/kadanes-algorithm/print-subarry-Kadane.cpp) | 🟡 Medium | `DSA` / `Arrays` |
-| 0023 | [Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array-by-k-places) | [OPTIMAL](./DSA/Arrays/left-rotate-array-by-k-places/optimal.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0024 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0025 | [Linear Search](./DSA/Arrays/linear-search) | [CPP](./DSA/Arrays/linear-search/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0026 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [CPP](./DSA/Hashing/longest-subarray-with-sum-k/solution.cpp) | 🟡 Medium | `DSA` / `Hashing` |
-| 0027 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [CPP](./DSA/Arrays/majority-element-i/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0028 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [CPP](./DSA/Arrays/maximum-consecutive-ones/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0029 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [CPP](./DSA/Trees/maximum-depth-in-bt/solution.cpp) [ITERATIVE](./DSA/Trees/maximum-depth-in-bt/iterative.cpp) | 🟡 Medium | `DSA` / `Trees` |
-| 0030 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [CPP](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.cpp) | 🔴 Hard | `DSA` / `Arrays` |
-| 0031 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
-| 0032 | [Minimum multiplications to reach end](./DSA/Graphs/minimum-multiplications-to-reach-end) | [CPP](./DSA/Graphs/minimum-multiplications-to-reach-end/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0033 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [CPP](./DSA/Arrays/move-zeros-to-end/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0034 | [Network Delay Time](./DSA/General/network-delay-time) | [CPP](./DSA/General/network-delay-time/solution.cpp) | 🟡 Medium | `DSA` |
-| 0035 | [Number of enclaves](./DSA/General/number-of-enclaves) | [CPP](./DSA/General/number-of-enclaves/solution.cpp) [SOLUTION-1](./DSA/General/number-of-enclaves/Solution-1.cpp) | 🟡 Medium | `DSA` |
-| 0036 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0037 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0038 | [Number of ways to arrive at destination](./DSA/Trees/number-of-ways-to-arrive-at-destination) | [CPP](./DSA/Trees/number-of-ways-to-arrive-at-destination/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
-| 0039 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [SOLUTION-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0040 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [ITERATIVE1-STACK](./DSA/Trees/postorder-traversal/iterative1-stack.cpp) [RECURSIVE](./DSA/Trees/postorder-traversal/recursive.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0041 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0042 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [ITERATIVE](./DSA/Trees/preorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
-| 0043 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0044 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0045 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
-| 0046 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0047 | [Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-distance-in-a-binary-maze) | [DIJKSTRA](./DSA/Graphs/shortest-distance-in-a-binary-maze/Dijkstra.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0048 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
-| 0049 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0050 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [CPP](./DSA/Bit-Manipulation/single-number-i/solution.cpp) | 🟡 Medium | `DSA` / `Bit-Manipulation` |
-| 0051 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [CPP](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.cpp) [OPTIMALDUTCHFLAGALGO](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/optimalDutchFlagAlgo.cpp) | 🟡 Medium | `DSA` / `Arrays` |
-| 0052 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
-| 0053 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
-| 0054 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0055 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
-| 0056 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0057 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
-| 0058 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
+| 0003 | [Best time to buy and sell stock](./DSA/Dynamic-Programming/best-time-to-buy-and-sell-stock) | [CPP](./DSA/Dynamic-Programming/best-time-to-buy-and-sell-stock/solution.cpp) | 🟡 Medium | `DSA` / `Dynamic-Programming` |
+| 0004 | [Bipartite graph](./DSA/Graphs/bipartite-graph) | [BFS](./DSA/Graphs/bipartite-graph/BFS.cpp) [CPP](./DSA/Graphs/bipartite-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0005 | [Cheapest flight within K stops](./DSA/Graphs/cheapest-flight-within-k-stops) | [CPP](./DSA/Graphs/cheapest-flight-within-k-stops/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0006 | [Check if a Number is Odd or Not](./DSA/General/check-if-a-number-is-odd-or-not) | [CPP](./DSA/General/check-if-a-number-is-odd-or-not/solution.cpp) | 🟢 Easy | `DSA` |
+| 0007 | [Check if a Number is Power of 2 or Not](./DSA/General/check-if-a-number-is-power-of-2-or-not) | [CPP](./DSA/General/check-if-a-number-is-power-of-2-or-not/solution.cpp) | 🟢 Easy | `DSA` |
+| 0008 | [Check if the i-th bit is Set or Not](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not) | [LEFT-SHIFT-OPERATOR](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/left-shift-operator.cpp) [RIGHT-SHIFT-OPERATOR](./DSA/Bit-Manipulation/check-if-the-i-th-bit-is-set-or-not/right-shift-operator.cpp) | 🟢 Easy | `DSA` / `Bit-Manipulation` |
+| 0009 | [Count the Number of Set Bits](./DSA/Bit-Manipulation/count-the-number-of-set-bits) | [CPP](./DSA/Bit-Manipulation/count-the-number-of-set-bits/solution.cpp) | 🟢 Easy | `DSA` / `Bit-Manipulation` |
+| 0010 | [Course Schedule I](./DSA/General/course-schedule-i) | [CPP](./DSA/General/course-schedule-i/solution.cpp) | 🔴 Hard | `DSA` |
+| 0011 | [Course Schedule II](./DSA/General/course-schedule-ii) | [BFS-TOPOSORT](./DSA/General/course-schedule-ii/bfs-toposort.cpp) | 🟡 Medium | `DSA` |
+| 0012 | [Detect a cycle in a directed graph](./DSA/Graphs/detect-a-cycle-in-a-directed-graph) | [BFS](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/BFS.cpp) [CPP](./DSA/Graphs/detect-a-cycle-in-a-directed-graph/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0013 | [Detect a cycle in an undirected graph](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph) | [BFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/BFS.cpp) [DFS](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/DFS.cpp) [SOLUTION-1](./DSA/Graphs/detect-a-cycle-in-an-undirected-graph/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0014 | [Dijkstra's algorithm](./DSA/Graphs/dijkstras-algorithm) | [CPP](./DSA/Graphs/dijkstras-algorithm/solution.cpp) [USING-SET](./DSA/Graphs/dijkstras-algorithm/using-set.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0015 | [Distance of nearest cell having one](./DSA/Linked-List/distance-of-nearest-cell-having-one) | [SOLUTION-1](./DSA/Linked-List/distance-of-nearest-cell-having-one/Solution-1.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0016 | [Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [BFS-TOPOSORT](./DSA/Graphs/find-eventual-safe-states/bfs-toposort.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0017 | [Find missing number](./DSA/Arrays/find-missing-number) | [OPTIMAL-1](./DSA/Arrays/find-missing-number/optimal-1.cpp) [OPTIMAL-2](./DSA/Arrays/find-missing-number/optimal-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0018 | [Find the city with the smallest number of neighbors](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors) | [CPP](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0019 | [Find the MST weight](./DSA/Graphs/find-the-mst-weight) | [CPP](./DSA/Graphs/find-the-mst-weight/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0020 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0021 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0022 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) [ITERATIVE](./DSA/Trees/inorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0023 | [Kadane's Algorithm](./DSA/Arrays/kadanes-algorithm) | [CPP](./DSA/Arrays/kadanes-algorithm/solution.cpp) [PRINT-SUBARRY-KADANE](./DSA/Arrays/kadanes-algorithm/print-subarry-Kadane.cpp) | 🟡 Medium | `DSA` / `Arrays` |
+| 0024 | [Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array-by-k-places) | [OPTIMAL](./DSA/Arrays/left-rotate-array-by-k-places/optimal.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0025 | [Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0026 | [Linear Search](./DSA/Arrays/linear-search) | [CPP](./DSA/Arrays/linear-search/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0027 | [Longest subarray with sum K](./DSA/Hashing/longest-subarray-with-sum-k) | [CPP](./DSA/Hashing/longest-subarray-with-sum-k/solution.cpp) | 🟡 Medium | `DSA` / `Hashing` |
+| 0028 | [Majority Element-I](./DSA/Arrays/majority-element-i) | [CPP](./DSA/Arrays/majority-element-i/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0029 | [Maximum Consecutive Ones](./DSA/Arrays/maximum-consecutive-ones) | [CPP](./DSA/Arrays/maximum-consecutive-ones/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0030 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [CPP](./DSA/Trees/maximum-depth-in-bt/solution.cpp) [ITERATIVE](./DSA/Trees/maximum-depth-in-bt/iterative.cpp) | 🟡 Medium | `DSA` / `Trees` |
+| 0031 | [Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [CPP](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.cpp) | 🔴 Hard | `DSA` / `Arrays` |
+| 0032 | [Minimum coins](./DSA/General/minimum-coins) | [CPP](./DSA/General/minimum-coins/solution.cpp) | 🔴 Hard | `DSA` |
+| 0033 | [Minimum multiplications to reach end](./DSA/Graphs/minimum-multiplications-to-reach-end) | [CPP](./DSA/Graphs/minimum-multiplications-to-reach-end/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0034 | [Move Zeros to End](./DSA/Arrays/move-zeros-to-end) | [CPP](./DSA/Arrays/move-zeros-to-end/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0035 | [Network Delay Time](./DSA/General/network-delay-time) | [CPP](./DSA/General/network-delay-time/solution.cpp) | 🟡 Medium | `DSA` |
+| 0036 | [Number of enclaves](./DSA/General/number-of-enclaves) | [CPP](./DSA/General/number-of-enclaves/solution.cpp) [SOLUTION-1](./DSA/General/number-of-enclaves/Solution-1.cpp) | 🟡 Medium | `DSA` |
+| 0037 | [Number of islands](./DSA/Recursion/number-of-islands) | [CPP](./DSA/Recursion/number-of-islands/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0038 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0039 | [Number of ways to arrive at destination](./DSA/Trees/number-of-ways-to-arrive-at-destination) | [CPP](./DSA/Trees/number-of-ways-to-arrive-at-destination/solution.cpp) | 🔴 Hard | `DSA` / `Trees` |
+| 0040 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [SOLUTION-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0041 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [ITERATIVE1-STACK](./DSA/Trees/postorder-traversal/iterative1-stack.cpp) [RECURSIVE](./DSA/Trees/postorder-traversal/recursive.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0042 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0043 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [ITERATIVE](./DSA/Trees/preorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
+| 0044 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0045 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0046 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `DSA` |
+| 0047 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0048 | [Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-distance-in-a-binary-maze) | [DIJKSTRA](./DSA/Graphs/shortest-distance-in-a-binary-maze/Dijkstra.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0049 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [SOLUTION-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `DSA` |
+| 0050 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0051 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [CPP](./DSA/Bit-Manipulation/single-number-i/solution.cpp) | 🟡 Medium | `DSA` / `Bit-Manipulation` |
+| 0052 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [CPP](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.cpp) [OPTIMALDUTCHFLAGALGO](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/optimalDutchFlagAlgo.cpp) | 🟡 Medium | `DSA` / `Arrays` |
+| 0053 | [Surrounded Regions](./DSA/General/surrounded-regions) | [CHATGPT](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `DSA` |
+| 0054 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [USING-TEMP-VARIABLE](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `DSA` |
+| 0055 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) [SOLUTION-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0056 | [Traversal Techniques](./DSA/General/traversal-techniques) | [SOLUTION-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `DSA` |
+| 0057 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0058 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟢 Easy | `DSA` / `Arrays` |
+| 0059 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `DSA` |
 
 ---
 
