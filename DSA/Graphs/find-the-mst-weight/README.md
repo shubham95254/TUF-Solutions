@@ -18,7 +18,7 @@ A minimum spanning tree (MST) or minimum weight spanning tree is a subset of the
 
 ### Example 1
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-VMx0t_X_">
+<img src="https://static.takeuforward.org/content/ProblemSetter-VMx0t_X_" data-porda-id="p_550d8294-b96d-441e-b480-e29df30dd6e2" data-porda-status="clean" class="porda-blur-img" data-porda-unblur="1">
 
 <p>
 
@@ -38,7 +38,7 @@ These edges connect all vertices (0, 1, 2, 3) with minimum cost.
 
 ### Example 2
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-TRzOGiy0">
+<img src="https://static.takeuforward.org/content/ProblemSetter-TRzOGiy0" data-porda-id="p_450435da-9c67-4111-abcd-a877f7b36d26" data-porda-status="clean" class="porda-blur-img" data-porda-unblur="1">
 
 <p>
 

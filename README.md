@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **60** | 20 | 18 | 22 | `2026-09-18` |
+| **60** | 20 | 18 | 22 | `2026-09-19` |
 
 ---
 
@@ -32,7 +32,7 @@
 | 0016 | [Find eventual safe states](./DSA/Graphs/find-eventual-safe-states) | [BFS-TOPOSORT](./DSA/Graphs/find-eventual-safe-states/bfs-toposort.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0017 | [Find missing number](./DSA/Arrays/find-missing-number) | [OPTIMAL-1](./DSA/Arrays/find-missing-number/optimal-1.cpp) [OPTIMAL-2](./DSA/Arrays/find-missing-number/optimal-2.cpp) | 🟢 Easy | `DSA` / `Arrays` |
 | 0018 | [Find the city with the smallest number of neighbors](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors) | [CPP](./DSA/Graphs/find-the-city-with-the-smallest-number-of-neighbors/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
-| 0019 | [Find the MST weight](./DSA/Graphs/find-the-mst-weight) | [CPP](./DSA/Graphs/find-the-mst-weight/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
+| 0019 | [Find the MST weight](./DSA/Graphs/find-the-mst-weight) | [prims-print-mst](./DSA/Graphs/find-the-mst-weight/prims-print-mst.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0020 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0021 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `DSA` / `Graphs` |
 | 0022 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) [ITERATIVE](./DSA/Trees/inorder-traversal/iterative.cpp) | 🟢 Easy | `DSA` / `Trees` |
