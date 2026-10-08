@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **69** | 20 | 26 | 23 | `2026-10-01` |
+| **70** | 20 | 27 | 23 | `2026-10-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (69)
+### DSA (70)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -62,29 +62,30 @@
 | 0044 | [Number of operations to make network connected](./DSA/Graphs/number-of-operations-to-make-network-connected) | [CPP](./DSA/Graphs/number-of-operations-to-make-network-connected/solution.cpp) | 🟡 Medium | `Graphs` | `2026-09-30` |
 | 0045 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `Recursion` | `2026-09-19` |
 | 0046 | [Number of ways to arrive at destination](./DSA/Trees/number-of-ways-to-arrive-at-destination) | [CPP](./DSA/Trees/number-of-ways-to-arrive-at-destination/solution.cpp) | 🔴 Hard | `Trees` | `2026-09-19` |
-| 0047 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [Solution-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
-| 0048 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [iterative1-stack](./DSA/Trees/postorder-traversal/iterative1-stack.cpp) [recursive](./DSA/Trees/postorder-traversal/recursive.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
-| 0049 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
-| 0050 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [iterative](./DSA/Trees/preorder-traversal/iterative.cpp) [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
-| 0051 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0052 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-19` |
-| 0053 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-30` |
-| 0054 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `Recursion` | `2026-09-19` |
-| 0055 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `General` | `2026-09-19` |
-| 0056 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
-| 0057 | [Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-distance-in-a-binary-maze) | [Dijkstra](./DSA/Graphs/shortest-distance-in-a-binary-maze/Dijkstra.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
-| 0058 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [Solution-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `General` | `2026-09-19` |
-| 0059 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
-| 0060 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [CPP](./DSA/Bit-Manipulation/single-number-i/solution.cpp) | 🟡 Medium | `Bit-Manipulation` | `2026-09-19` |
-| 0061 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [optimalDutchFlagAlgo](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/optimalDutchFlagAlgo.cpp) [CPP](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-19` |
-| 0062 | [Surrounded Regions](./DSA/General/surrounded-regions) | [chatgpt](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `General` | `2026-09-19` |
-| 0063 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [using-temp-variable](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `General` | `2026-09-19` |
-| 0064 | [Swim in Rising Water](./DSA/Graphs/swim-in-rising-water) | [CPP](./DSA/Graphs/swim-in-rising-water/solution.cpp) [dijkstra](./DSA/Graphs/swim-in-rising-water/dijkstra.cpp) | 🔴 Hard | `Graphs` | `2026-10-01` |
-| 0065 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
-| 0066 | [Traversal Techniques](./DSA/General/traversal-techniques) | [Solution-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `General` | `2026-09-19` |
-| 0067 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
-| 0068 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
-| 0069 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `General` | `2026-09-19` |
+| 0047 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-08` |
+| 0048 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [Solution-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
+| 0049 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [iterative1-stack](./DSA/Trees/postorder-traversal/iterative1-stack.cpp) [recursive](./DSA/Trees/postorder-traversal/recursive.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
+| 0050 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
+| 0051 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [iterative](./DSA/Trees/preorder-traversal/iterative.cpp) [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
+| 0052 | [Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0053 | [Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [CPP](./DSA/Arrays/rearrange-array-elements-by-sign/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-19` |
+| 0054 | [Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-30` |
+| 0055 | [Remove Outermost Parentheses](./DSA/Recursion/remove-outermost-parentheses) | [CPP](./DSA/Recursion/remove-outermost-parentheses/solution.cpp) | 🟡 Medium | `Recursion` | `2026-09-19` |
+| 0056 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `General` | `2026-09-19` |
+| 0057 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
+| 0058 | [Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-distance-in-a-binary-maze) | [Dijkstra](./DSA/Graphs/shortest-distance-in-a-binary-maze/Dijkstra.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
+| 0059 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [Solution-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `General` | `2026-09-19` |
+| 0060 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
+| 0061 | [Single Number - I](./DSA/Bit-Manipulation/single-number-i) | [CPP](./DSA/Bit-Manipulation/single-number-i/solution.cpp) | 🟡 Medium | `Bit-Manipulation` | `2026-09-19` |
+| 0062 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [optimalDutchFlagAlgo](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/optimalDutchFlagAlgo.cpp) [CPP](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-19` |
+| 0063 | [Surrounded Regions](./DSA/General/surrounded-regions) | [chatgpt](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `General` | `2026-09-19` |
+| 0064 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [using-temp-variable](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `General` | `2026-09-19` |
+| 0065 | [Swim in Rising Water](./DSA/Graphs/swim-in-rising-water) | [CPP](./DSA/Graphs/swim-in-rising-water/solution.cpp) [dijkstra](./DSA/Graphs/swim-in-rising-water/dijkstra.cpp) | 🔴 Hard | `Graphs` | `2026-10-01` |
+| 0066 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
+| 0067 | [Traversal Techniques](./DSA/General/traversal-techniques) | [Solution-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `General` | `2026-09-19` |
+| 0068 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
+| 0069 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
+| 0070 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `General` | `2026-09-19` |
 
 ---
 
