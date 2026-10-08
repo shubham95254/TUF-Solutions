@@ -12,8 +12,7 @@ public:
             ans*=r;
             ans/=i;
         }
-
-        
+        //this works, since for each r, rC1, rC2, ...., rCr all are integers
         return ans;
 
     }
