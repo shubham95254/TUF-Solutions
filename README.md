@@ -63,7 +63,7 @@
 | 0045 | [Number of provinces](./DSA/Recursion/number-of-provinces) | [CPP](./DSA/Recursion/number-of-provinces/solution.cpp) | 🟡 Medium | `Recursion` | `2026-09-19` |
 | 0046 | [Number of ways to arrive at destination](./DSA/Trees/number-of-ways-to-arrive-at-destination) | [CPP](./DSA/Trees/number-of-ways-to-arrive-at-destination/solution.cpp) | 🔴 Hard | `Trees` | `2026-09-19` |
 | 0047 | [Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-08` |
-| 0048 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [CPP](./DSA/Arrays/pascals-triangle-ii/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-08` |
+| 0048 | [Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [CPP](./DSA/Arrays/pascals-triangle-ii/solution.cpp) [cleaner-code](./DSA/Arrays/pascals-triangle-ii/cleaner-code.cpp) | 🟡 Medium | `Arrays` | `2026-10-08` |
 | 0049 | [Path with minimum effort](./DSA/Graphs/path-with-minimum-effort) | [Solution-1](./DSA/Graphs/path-with-minimum-effort/Solution-1.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
 | 0050 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [iterative1-stack](./DSA/Trees/postorder-traversal/iterative1-stack.cpp) [recursive](./DSA/Trees/postorder-traversal/recursive.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
 | 0051 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [CPP](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
