@@ -80,7 +80,7 @@
 | 0062 | [Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s) | [optimalDutchFlagAlgo](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/optimalDutchFlagAlgo.cpp) [CPP](./DSA/Arrays/sort-an-array-of-0s-1s-and-2s/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-19` |
 | 0063 | [Surrounded Regions](./DSA/General/surrounded-regions) | [chatgpt](./DSA/General/surrounded-regions/chatgpt.cpp) | 🟡 Medium | `General` | `2026-09-19` |
 | 0064 | [Swap Two Numbers](./DSA/General/swap-two-numbers) | [using-temp-variable](./DSA/General/swap-two-numbers/using-temp-variable.cpp) | 🟢 Easy | `General` | `2026-09-19` |
-| 0065 | [Swim in Rising Water](./DSA/Graphs/swim-in-rising-water) | [CPP](./DSA/Graphs/swim-in-rising-water/solution.cpp) [dijkstra](./DSA/Graphs/swim-in-rising-water/dijkstra.cpp) | 🔴 Hard | `Graphs` | `2026-10-01` |
+| 0065 | [Swim in Rising Water](./DSA/Graphs/swim-in-rising-water) | [dijkstra](./DSA/Graphs/swim-in-rising-water/dijkstra.cpp) [CPP](./DSA/Graphs/swim-in-rising-water/solution.cpp) | 🔴 Hard | `Graphs` | `2026-10-01` |
 | 0066 | [Topological sort or Kahn's algorithm](./DSA/Graphs/topological-sort-or-kahns-algorithm) | [BFS](./DSA/Graphs/topological-sort-or-kahns-algorithm/BFS.cpp) [Solution-2](./DSA/Graphs/topological-sort-or-kahns-algorithm/Solution-2.cpp) [CPP](./DSA/Graphs/topological-sort-or-kahns-algorithm/solution.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
 | 0067 | [Traversal Techniques](./DSA/General/traversal-techniques) | [Solution-2](./DSA/General/traversal-techniques/Solution-2.cpp) | 🟡 Medium | `General` | `2026-09-19` |
 | 0068 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |

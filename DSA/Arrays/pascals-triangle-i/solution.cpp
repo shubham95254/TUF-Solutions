@@ -7,17 +7,14 @@ public:
 
         if(c>r/2) c = r-c;
 
-        long long ans = 1;
-        for(int i = 0; i<c; i++) {
-            ans*=r--;
+        int ans = 1;
+        for(int i = 1; i<=c; i++, r--) {
+            ans*=r;
+            ans/=i;
         }
 
-        while(c--) {
-            // ans*=r;
-            ans /=(c+1);
-            // r--;
-        }
-        return (int)ans;
+        
+        return ans;
 
     }
 };
