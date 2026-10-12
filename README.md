@@ -43,7 +43,7 @@
 | 0025 | [Find the MST weight](./DSA/Graphs/find-the-mst-weight) | [prims-print-mst](./DSA/Graphs/find-the-mst-weight/prims-print-mst.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
 | 0026 | [Flood fill algorithm](./DSA/Linked-List/flood-fill-algorithm) | [CPP](./DSA/Linked-List/flood-fill-algorithm/solution.cpp) | 🟡 Medium | `Linked-List` | `2026-09-19` |
 | 0027 | [Floyd warshall algorithm](./DSA/Graphs/floyd-warshall-algorithm) | [CPP](./DSA/Graphs/floyd-warshall-algorithm/solution.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
-| 0028 | [Frog jump with K distances](./DSA/Dynamic-Programming/frog-jump-with-k-distances) | [memoization](./DSA/Dynamic-Programming/frog-jump-with-k-distances/memoization.cpp) | 🟡 Medium | `Dynamic-Programming` | `2026-10-12` |
+| 0028 | [Frog jump with K distances](./DSA/Dynamic-Programming/frog-jump-with-k-distances) | [memoization](./DSA/Dynamic-Programming/frog-jump-with-k-distances/memoization.cpp) [tabulation](./DSA/Dynamic-Programming/frog-jump-with-k-distances/tabulation.cpp) | 🟡 Medium | `Dynamic-Programming` | `2026-10-12` |
 | 0029 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [iterative](./DSA/Trees/inorder-traversal/iterative.cpp) [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | 🟢 Easy | `Trees` | `2026-09-19` |
 | 0030 | [Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-01` |
 | 0031 | [Kadane's Algorithm](./DSA/Arrays/kadanes-algorithm) | [print-subarry-Kadane](./DSA/Arrays/kadanes-algorithm/print-subarry-Kadane.cpp) [CPP](./DSA/Arrays/kadanes-algorithm/solution.cpp) | 🟡 Medium | `Arrays` | `2026-09-19` |
