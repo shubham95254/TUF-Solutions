@@ -93,7 +93,7 @@
 | 0075 | [Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
 | 0076 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
 | 0077 | [Word ladder I](./DSA/General/word-ladder-i) | [CPP](./DSA/General/word-ladder-i/solution.cpp) | 🔴 Hard | `General` | `2026-09-19` |
-| 0078 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) | 🟡 Medium | `Trees` | `2026-10-24` |
+| 0078 | [Zig Zag or Spiral Traversal](./DSA/Trees/zig-zag-or-spiral-traversal) | [CPP](./DSA/Trees/zig-zag-or-spiral-traversal/solution.cpp) [Solution-2](./DSA/Trees/zig-zag-or-spiral-traversal/Solution-2.cpp) | 🟡 Medium | `Trees` | `2026-10-24` |
 
 ---
 

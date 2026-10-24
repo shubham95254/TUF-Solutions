@@ -36,6 +36,10 @@ At next level again reverse the traversal i.e. from left to right, from 15 to 7.
 
 <img src="https://static.takeuforward.org/content/1787324855_rbxfJfGb.webp">
 
+### Example 3:
+
+<h3 class="ProblemPanel-module__qBixIa__sectionTitle mb-0!">Example 3:</h3>
+
 Still unsure what the problem is asking ?
 
 Let’s go through a few more examples, step by step, to make it clearer.
