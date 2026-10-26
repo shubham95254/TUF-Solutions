@@ -1,4 +1,4 @@
-# [Set Matrix Zeroes](https://takeuforward.org/practice/dsa/set-matrix-zeroes?category=faqs-medium&source=strivers-a2z-dsa-sheet&sidebar=0)
+# [Set Matrix Zeroes](https://takeuforward.org/practice/dsa/set-matrix-zeroes?category=faqs-medium&source=strivers-a2z-dsa-sheet&sidebar=0&solution=optimal&ai=true)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 

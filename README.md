@@ -82,7 +82,7 @@
 | 0064 | [Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-26` |
 | 0065 | [Rotten Oranges](./DSA/General/rotten-oranges) | [CPP](./DSA/General/rotten-oranges/solution.cpp) | 🟡 Medium | `General` | `2026-09-19` |
 | 0066 | [Second Largest Element](./DSA/Arrays/second-largest-element) | [CPP](./DSA/Arrays/second-largest-element/solution.cpp) | 🟢 Easy | `Arrays` | `2026-09-19` |
-| 0067 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | 🟡 Medium | `Arrays` | `2026-10-26` |
+| 0067 | [Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) [inplace](./DSA/Arrays/set-matrix-zeroes/inplace.cpp) | 🟡 Medium | `Arrays` | `2026-10-26` |
 | 0068 | [Shortest Distance in a Binary Maze](./DSA/Graphs/shortest-distance-in-a-binary-maze) | [Dijkstra](./DSA/Graphs/shortest-distance-in-a-binary-maze/Dijkstra.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
 | 0069 | [Shortest path in DAG](./DSA/General/shortest-path-in-dag) | [Solution-1](./DSA/General/shortest-path-in-dag/Solution-1.cpp) | 🔴 Hard | `General` | `2026-09-19` |
 | 0070 | [Shortest path in undirected graph with unit weights](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights) | [CPP](./DSA/Graphs/shortest-path-in-undirected-graph-with-unit-weights/solution.cpp) | 🔴 Hard | `Graphs` | `2026-09-19` |
